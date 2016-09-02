@@ -1,7 +1,7 @@
 import java.io.*;
 class longest()
 {
-public static void main(string args[])
+public static void main(String args[])
 {
 public String longestCommonPrefix(String[]strs)
 {
