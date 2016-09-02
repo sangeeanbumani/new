@@ -1,5 +1,5 @@
 import java.io.*;
-class longest()
+class Longest()
 {
 public static void main(String args[0])
 {
