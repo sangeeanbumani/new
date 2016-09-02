@@ -1,9 +1,7 @@
 import java.io.*;
 class longest()
 {
-public static void main(String args[])
-{
-public String longestCommonPrefix(String[]strs)
+public static void main(String args[0])
 {
 if(strs==null||strs.length==0)
 {
